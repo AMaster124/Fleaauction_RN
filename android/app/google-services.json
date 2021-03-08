@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1011142279484",
+    "firebase_url": "https://flea-auction-dev.firebaseio.com",
+    "project_id": "flea-auction-dev",
+    "storage_bucket": "flea-auction-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011142279484:android:cf9db1e4ad271fedb7de39",
+        "android_client_info": {
+          "package_name": "co.fleaauction.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011142279484-o96j095ok0ms9hu5iv1h0oo7p5gm270u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjEsdCv8O09Z3OstDzrCbfo8yPkgbEApM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011142279484-o96j095ok0ms9hu5iv1h0oo7p5gm270u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1011142279484-5slgold22ibrkno3rt6gci9as4ghnl5v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.fleaauction.app",
+                "app_store_id": "1549610503"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
